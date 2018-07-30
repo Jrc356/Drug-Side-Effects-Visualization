@@ -1,2 +1,2 @@
 # Drug-Side-Effects-Visualization
-Visuali
+Visualize drug side effects, their commonalities, and their uses.
